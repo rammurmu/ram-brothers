@@ -1,5 +1,8 @@
 body{
+     font-family: system-ui;
      background-color:#d0e4fe;
+     color: white;
+     text-aling: centre;
 }
 h1{
   color:deep orange;
