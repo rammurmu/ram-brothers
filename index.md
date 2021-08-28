@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Welcome to Ram Murmu Official Pages
 
-You can use the [editor on GitHub](https://github.com/Rammurmu/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Introducing to the Ram Mummu Life's Store and Journey 
+Official website Url [GitHub](https://github.com/Rammurmu/github) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+New India Young Entrepreneur,Innovator,Developer and IT Professional[Startup](https://jekyllrb.com/) and Recoganized startup ventur or Company
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Iam Innovation/Data Driven Entreprenur (I/DDE)
+My name is Ram Murmu I am the Founder and Chief Executive Officer (CEO) ,Runash
+Company Name RunAsh Digital Innovation Technologies Private Limited
+Company Identification Number 
 
 ```markdown
-Syntax highlighted code block
+Initiative
 
-# Header 1
-## Header 2
-### Header 3
+RunAsh Industries 
+Micro Small medium Enterprises(MSME) 
 
-- Bulleted
-- List
+RunAsh Digital Innovation Technologies Private Limite
+Private Limited Company (Companies Act 2013)
 
-1. Numbered
-2. List
+Subsidiries Company RunAsh, Inc.(Coming Soon)
 
-**Bold** and _Italic_ and `Code` text
+- First MSME is sole proprietorship
+- Second Company is Parent Comany RunAsh (Private Limited Company)
+- Third Company is RunAsh Subsidiries (Delaware C Corporation)
 
-[Link](url) and ![Image](src)
+1. Founder and CEO 
+2. CO-Founder and CFO
+
+Founder and CEO,Ram Murmu  Co-Founder and CFO,Vaibhav Murmu `RunAsh` Startup Venture
 ```
+Ram Murmu
+[LinkedIn](https://linkedIn.com/in/RamMurmu)
+[Twitter](https://twitter.com/_RamMurmu) 
+Vaibhav Murmu
+[LinkedIn](https://linkedIn.com/in/VaibhavMurmu)
+[Twitter](https://twitter.com/vaibhavmurmu) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Github](https://github.com/Rammurmu/github.io).
 
-### Jekyll Themes
+### Background
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rammurmu/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our Journey is being 2007 [Official Website](https://github.com/Rammurmu/github.io). Small offline retail store `_Shree Ram General Store` Our Family Business (Unorganized Retail Business.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Connect with Ram Murmu Official Social Network Channels [Facebook](https://https://facebook.com/RamMurmuofficialPage)  [Instagram](https://instagram.com/RamMurmuOfficialPage)
+[Twitter](https://twitter.com/_RamMurmu)  [Medium](https://medium.com/RamMurmu) [Reddit](https://reddit.com/RamMurmu)
