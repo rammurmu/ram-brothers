@@ -1,7 +1,7 @@
 # RAM MURMU✨
 
 ## 👏Welcome
-Introducing to the Ram Murmu 
+Introducing to the Ram Murmu <br> [About](https://rammurmu.github.io/official-page/) [Blog](https://rammurmu.github.io/official-page/)      [Contact](https://rammurmu.github.io/official-page/)     [Help](https://rammurmu.github.io/official-page/)     [F.A.Q](https://rammurmu.github.io/official-page/) [Call +916203711869](https://rammurmu.github.io/official-page/)
 
 Story and Journey 
 
@@ -129,4 +129,4 @@ For more details see [RunAsh Blog](https://runash.in/blog).
 Ram Murmu<br> Official Social Network Channels<br> [Facebook](https://https://facebook.com/RamMurmuofficialPage) [Instagram](https://instagram.com/RamMurmuOfficialPage)
 [Twitter](https://twitter.com/_RamMurmu) [Medium](https://medium.com/RamMurmu) [Reddit](https://reddit.com/RamMurmu)
 
-Vaibhav Murmu <br>Social Network Channels<br> [Facebook](https://facebook.com/vaibhav.Murmu) [Twitter](https://twitter.com/VaibhavMurmu) [Instagram](https://Instagram.com/Vaibhav.Murmu) [Pintrest](https://Pinterest.com/VaibhavMurmu)  [Youtube](https://Youtube.com/VaibhavMurmu)
+Vaibhav Murmu <br>Social Network Channels<br> [Facebook](https://facebook.com/vaibhav.Murmu) [Twitter](https://twitter.com/VaibhavMurmu) [Instagram](https://Instagram.com/Vaibhav.Murmu) [Pintrest](https://Pinterest.com/VaibhavMurmu) [Youtube](https://Youtube.com/VaibhavMurmu)
