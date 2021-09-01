@@ -47,9 +47,9 @@ _My business journey starts from 2007 when I was in 7th standard of school.The n
 
 # Journy #
 >
-Journey is being 2007. Small offline retail store `_Shree Ram General Store` Our Family Business (Unorganized Retail Business.
+Our family business started from 2007. We started business with an offline retail store `_Shri Ram General Store`
 
-_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
+_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`and Learn from the world's best, I learned something new and acquired new skills._
 
 
 
