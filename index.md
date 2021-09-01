@@ -1,9 +1,9 @@
 # RAM MURMU✨
 
 ## 👏Welcome
-Introducing to the Ram Murmu <br> [About](https://rammurmu.github.io/official-page/) [Blog](https://rammurmu.github.io/official-page/)      [Contact](https://rammurmu.github.io/official-page/)     [Help](https://rammurmu.github.io/official-page/)     [F.A.Q](https://rammurmu.github.io/official-page/) [Call +916203711869](https://rammurmu.github.io/official-page/)
+Introducing to the Ram Murmu <br> | [About](https://rammurmu.github.io/official-page/)      | [Blog](https://rammurmu.github.io/official-page/)       |   [Contact](https://rammurmu.github.io/official-page/)     |   [Help](https://rammurmu.github.io/official-page/)     |   [F.A.Q](https://rammurmu.github.io/official-page/)     |[📞Call +916203711869](https://rammurmu.github.io/official-page/) |
 
-Story and Journey 
+#### Story and Journey ####
 
 Official website Url [GitHub](https://rammurmu.github.io/official-page/)
 
@@ -14,7 +14,7 @@ New India's Young Entrepreneur,Innovator,Developer and IT Professional
 ``RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur``
 
 
-In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokaro Industrial Area`,Biada Street,Village Manjhladih North Gorabali Post Balidih PS Balidih City Bokaro Steel City Distric `Bokaro` State `Jharkhand` Country `India` Pin Code 827014.and to `India to Sillicon Vallay`
+In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokaro Industrial Area`,Biada Street,Village Manjhladih North Gorabali Post Balidih PS Balidih City Bokaro Steel City Distric `Bokaro` State `Jharkhand` Country `India` Pin Code 827014.and today `India to Sillicon Vallay`
 
 **Brief Contents**
 
@@ -22,7 +22,7 @@ In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokar
 
 # About #
 >
-Iam Innovation/Data Driven Entreprenur (I/DDE)<br>
+I am Innovation/Data Driven Entreprenur (I/DDE)<br>
 My name is Ram Murmu I am the ``Founder and Chief Executive Officer (CEO) ,RunAsh``<br>
 Company Name ``RunAsh Digital Innovation Technologies Private Limited``<br>
 Company Identification Number (CIN)U52590JH2021PTC016339<BR>
@@ -67,7 +67,7 @@ RunAsh Digital Innovation Technologies Private Limited.
    (Companies Act 2013)
  (Private Limited Company)
  
-  _Subsidiries Company_
+ _Subsidiries Company_
  RunAsh, Inc.(Coming Soon)
  ( Delaware C Corporation)
   
