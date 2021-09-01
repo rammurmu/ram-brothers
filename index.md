@@ -1,4 +1,4 @@
-                                                          RAM MURMU✨
+# RAM MURMU✨
 
 ## 👏Welcome
 Introducing to the Ram Murmu 
@@ -29,7 +29,8 @@ Company Identification Number (CIN)U52590JH2021PTC016339<BR>
 Company PAN AAKCR9258E<BR>
 DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525<br>
 C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014
-
+  
+>
   My Co-Founder Details (We are both brother)<br>
   Vaibhav Murmu ``Co-Founder and Chief Financial Officer (CFO),RunAsh``<br>
   S/o Sanu Murmu
@@ -66,7 +67,7 @@ RunAsh Digital Innovation Technologies Private Limited.
    (Companies Act 2013)
  (Private Limited Company)
  
- _Subsidiries Company_
+  _Subsidiries Company_
  RunAsh, Inc.(Coming Soon)
  ( Delaware C Corporation)
   
@@ -128,4 +129,4 @@ For more details see [RunAsh Blog](https://runash.in/blog).
 Ram Murmu<br> Official Social Network Channels<br> [Facebook](https://https://facebook.com/RamMurmuofficialPage) [Instagram](https://instagram.com/RamMurmuOfficialPage)
 [Twitter](https://twitter.com/_RamMurmu) [Medium](https://medium.com/RamMurmu) [Reddit](https://reddit.com/RamMurmu)
 
-Vaibhav Murmu <br>Social Network Channels<br> [Facebook](https://facebook.com/vaibhav.Murmu) <br> [Twitter](https://twitter.com/VaibhavMurmu) <br> [Instagram](https://Instagram.com/Vaibhav.Murmu) <br> [Pintrest](https://Pinterest.com/VaibhavMurmu) <br> [Youtube](https://Youtube.com/VaibhavMurmu)
+Vaibhav Murmu <br>Social Network Channels<br> [Facebook](https://facebook.com/vaibhav.Murmu) [Twitter](https://twitter.com/VaibhavMurmu) [Instagram](https://Instagram.com/Vaibhav.Murmu) [Pintrest](https://Pinterest.com/VaibhavMurmu)  [Youtube](https://Youtube.com/VaibhavMurmu)
