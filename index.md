@@ -1,7 +1,7 @@
 # RAM MURMU✨
 
 ## 👏Welcome
-Introducing to the Ram Murmu <br> | [About](https://rammurmu.github.io/official-page/)      | [Blog](https://rammurmu.github.io/official-page/)       |   [Contact](https://rammurmu.github.io/official-page/)     |   [Help](https://rammurmu.github.io/official-page/)     |   [F.A.Q](https://rammurmu.github.io/official-page/)     |[📞Call +916203711869](https://rammurmu.github.io/official-page/) |
+Introducing to the Ram Murmu <br> [📧Email US](runashInc@gmail.com) [📞Call US +916203711869](+916203711869) 
 
 #### Story and Journey ####
 
@@ -30,6 +30,8 @@ Company PAN AAKCR9258E<BR>
 DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525<br>
 C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014
   
+[Admin Email ID](admin@runash.in) [Company Website](https://runash.in) [Github](https://github.com/runash) [LinkedIn](https://linkedin.com/in/runashstartup) [Hacker New](https://ycombinator/runash) [Medium](https://medium.com/runash)
+  
 >
   My Co-Founder Details (We are both brother)<br>
   Vaibhav Murmu ``Co-Founder and Chief Financial Officer (CFO),RunAsh``<br>
@@ -38,7 +40,8 @@ C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jh
   DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526
   C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India 
 
-
+[Admin Email Id](sales@runash.in)
+  
 # Story #
 >
 _My name is Ram Murmu I am 26 years old.My late grandfather's name is `Rameshwar Murmu`, and my late grandmother's name is `Hira Muni Devi Murmu`.My father's name is `Sanu Murmu` and my mother's name is `Birji Devi Murmu`.My brother's name is `Vaibhav Murmu` and my elder sister's name is `Pooja Kumari Murmu` and younger sister's name is `Vitteey Nirali Murmu`.
@@ -55,20 +58,18 @@ _My business journey starts from 2007 when I was in 7th standard of school.The n
 
 
 # Initiative #
-
-```markdown
-
-RunAsh Industries.
-  (Sole Proprietorship)
+  
+**RunAsh Industries.**<br>
+  (Sole Proprietorship)<br>
 Micro Small medium Enterprises(MSME) 
   
-_Parent Company_
-RunAsh Digital Innovation Technologies Private Limited.
-   (Companies Act 2013)
+_Parent Company_<br>
+**RunAsh Digital Innovation Technologies Private Limited.**<br>
+   (Companies Act 2013)<br>
  (Private Limited Company)
  
- _Subsidiries Company_
- RunAsh, Inc.(Coming Soon)
+ _Subsidiries Company_<br>
+ **RunAsh, Inc.**(Coming Soon)<br>
  ( Delaware C Corporation)
   
 - First MSME is sole proprietorship
@@ -78,8 +79,6 @@ RunAsh Digital Innovation Technologies Private Limited.
 1. Ram Murmu Founder and CEO 
 2. Vaibhav Murmu CO-Founder and CFO
 
-
-```
 # Background #
 ### Ram Murmu ###
 
