@@ -21,7 +21,7 @@ In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokar
 # Introduction #
 
 # About #
->
+
 I am Innovation/Data Driven Entreprenur (I/DDE)<br>
 My name is Ram Murmu I am the ``Founder and Chief Executive Officer (CEO) ,RunAsh``<br>
 Company Name ``RunAsh Digital Innovation Technologies Private Limited``<br>
@@ -32,7 +32,7 @@ C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jh
   
 [Admin Email ID](admin@runash.in) [Company Website](https://runash.in) [Github](https://github.com/runash) [LinkedIn](https://linkedin.com/in/runashstartup) [Hacker New](https://ycombinator/runash) [Medium](https://medium.com/runash)
   
->
+
   My Co-Founder Details (We are both brother)<br>
   Vaibhav Murmu ``Co-Founder and Chief Financial Officer (CFO),RunAsh``<br>
   S/o Sanu Murmu
@@ -76,13 +76,14 @@ _Parent Company_<br>
 - Second Company is Parent Comany RunAsh (Private Limited Company)
 - Third Company is RunAsh Subsidiries (Delaware C Corporation)
 
-1. Ram Murmu Founder and CEO 
-2. Vaibhav Murmu CO-Founder and CFO
+1. @RamMurmu Founder and CEO 
+2. @VaibhavMurmu CO-Founder and CFO
 
 # Background #
 ### Ram Murmu ###
 
   ### Eduction ###
+  
 ``Massachusetts Institute of Technology``(MIT OCW & X)-Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present
   
 ``London University``-Online Master of Business & Management, Corporate Strategy, Brand Management, Managing the startup of Future, How to Finance & Grow your Startup, Lifetime Learner @Work,2018-Present
