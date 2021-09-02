@@ -1,5 +1,7 @@
-# RAM MURMU✨
+**RAM MURMU✨**
+
 **_Higher thinking than Dream!_**
+
 ### 🎉Welcome ###
 
 
@@ -7,52 +9,47 @@
 
 
 
-[📧Email US](runashInc@gmail.com) [📞Call US ](+916203711869) [💬Whats APP](+916203711869) [◬Location](https://googlemap.com/runash)
+[📧Email US](runashInc@gmail.com) [📞Call US ](+916203711869) [💬Whats APP](+916203711869) [◬Location](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0)
 
 ### INTRODUCTION ###
 
 #### STORY & JOURNEY ####
 
-**Official website [GitHub](https://rammurmu.github.io/official-page/)**
+**OFFICIAL WEBSITE [GitHub](https://rammurmu.github.io/official-page/)**
 
 #### [I'm NewIndia's Digital Innovation Driven Entrepreneur (IDE),Innovator,Developer and IT Professional](https://linkedin.com/in/rammurmu) ####
 
-[RunAsh | Startup India Batch 2018]
+RunAsh | Startup India Batch 2018
 
-[RunAsh | Y Combinator SUS W20]
+RunAsh | Y Combinator SUS W20
 
-``RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur``
+RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur.
 
-
-In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokaro Industrial Area`,Biada Street,Village Manjhladih North Gorabali Post Balidih PS Balidih City Bokaro Steel City Distric `Bokaro` State `Jharkhand` Country `India` Pin Code 827014.and today `India to Sillicon Vallay`
+In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Industrial Area,Biada Street,Bokaro Jharkhand India.and today **India to Sillicon Vallay**
 
 **Brief Contents**
 
 # Introduction #
 
-# About #
+**About**
 
 I Would like to introduce my self and our Startup Venture
 
-My name is Ram Murmu I am the ``Founder and Chief Executive Officer (CEO) ,RunAsh``<br>
-Company Name ``RunAsh Digital Innovation Technologies Private Limited``<br>
-Company Identification Number (CIN)U52590JH2021PTC016339<BR>
-Company PAN AAKCR9258E<BR>
-DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525
+**My name is Ram Murmu I am the Founder and Chief Executive Officer (CEO) ,RunAsh<br>
+Company Name RunAsh Digital Innovation Technologies Private Limited<br>
+Company Identification Number (CIN)U52590JH2021PTC016339 <BR> Company PAN AAKCR9258E<BR>
+DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525**
   
-**Headquaters**
-  
-C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014
+**Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014**
   
 [Admin Email ID](admin@runash.in) [Company Website](https://runash.in) [Github](https://github.com/runash) [LinkedIn](https://linkedin.com/in/runashstartup) [Hacker New](https://ycombinator/runash) [Medium](https://medium.com/runash)
   
-
-  My Co-Founder Details (We are both brother)<br>
-  Vaibhav Murmu ``Co-Founder and Chief Financial Officer (CFO),RunAsh``<br>
-  S/o Sanu Murmu
-  Date of Birth 01-01-1999<br>
-  DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>
-  C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India 
+**My Co-Founder Details (We are both brother)<br>
+Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br>
+S/o Sanu Murmu
+Date of Birth 01-01-1999<br>
+DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>
+C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India** 
 
 [Admin Email Id](sales@runash.in)
   
@@ -64,9 +61,9 @@ _My business journey starts from 2007 when I was in 7th standard of school.The n
 
 # Journy #
 >
-Our family business started from 2007. We started business with an offline retail store `_Shri Ram General Store`
+Our family business started from 2007. We started business with an offline retail store _Shri Ram General Store_
 
-_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`and Learn from the world's best, I learned something new and acquired new skills._
+_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was SS Institute of Human Development.The name of my principal madam is Usha Rai who gave me the title of Best Student of the Year in 2009. And also inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills._
 
 
 
@@ -86,17 +83,11 @@ _Parent Company_<br>
  **RunAsh, Inc.**(Coming Soon)<br>
  ( Delaware C Corporation)
   
-- First MSME is sole proprietorship
-- Second Company is Parent Comany RunAsh (Private Limited Company)
-- Third Company is RunAsh Subsidiries (Delaware C Corporation)
-
-1. @RamMurmu Founder and CEO 
-2. @VaibhavMurmu CO-Founder and CFO
 
 # Background #
 ### Ram Murmu ###
 
-  ### 🎓Eductio ###
+ **🎓Eduction**
   
 ``Massachusetts Institute of Technology``(MIT OCW & X)-Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present
   
@@ -118,7 +109,8 @@ _Parent Company_<br>
 
 ## Vaibhav Murmu ##
 
- ### 🎓Education ###
+**🎓Education**
+  
   ``Harvardx``Online Business and Mangement,Lifelong Learner @Work,2020-Present
   
   ``Indian Institute of Management x``Online Business and Management,Lifetime Learner @Work,2020-Present
