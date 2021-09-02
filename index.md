@@ -7,7 +7,7 @@
 
 
 
-[📧Email US|](runashInc@gmail.com) [📞Call US +91620371186 |](+916203711869) [💬Whats APP+916203711869 |](+916203711869) [Location India |](https://googlemap.com/runash)**
+[📧Email US](runashInc@gmail.com) [📞Call US ](+916203711869) [💬Whats APP](+916203711869) [◬Location](https://googlemap.com/runash)
 
 ### INTRODUCTION ###
 
@@ -17,9 +17,9 @@
 
 #### [I'm NewIndia's Digital Innovation Driven Entrepreneur (IDE),Innovator,Developer and IT Professional](https://linkedin.com/in/rammurmu) ####
 
-[RunAsh | Startup India Batch 2018](https://runash.in)
+[RunAsh | Startup India Batch 2018]
 
-[RunAsh | Y Combinator SUS W20](https://runash.in)
+[RunAsh | Y Combinator SUS W20]
 
 ``RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur``
 
