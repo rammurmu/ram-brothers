@@ -1,15 +1,25 @@
 # RAM MURMU✨
+**_Higher thinking than Dream!_**
+### 🎉Welcome ###
 
-## 👏Welcome
-Introducing to the Ram Murmu <br> [📧Email US](runashInc@gmail.com) [📞Call US +916203711869](+916203711869) 
 
-#### Story and Journey ####
+**🙏Namast | 🤝Hello |👋Hi**
 
-Official website Url [GitHub](https://rammurmu.github.io/official-page/)
 
-New India's Young Entrepreneur,Innovator,Developer and IT Professional
 
-[Startup Venture](https://runash.in) 
+**[📧Email US   |](runashInc@gmail.com) [📞Call US +916203711869    |](+916203711869) [💬Whats APP at+916203711869    |](+916203711869) [Location India  |](https://googlemap.com/runash)**
+
+### INTRODUCTION ###
+
+#### STORY & JOURNEY ####
+
+**Official website [GitHub](https://rammurmu.github.io/official-page/)**
+
+#### [I'm NewIndia's Digital Innovation Driven Entrepreneur (IDE),Innovator,Developer and IT Professional](https://linkedin.com/in/rammurmu) ####
+
+**[RunAsh | Startup India Batch 2018](https://runash.in)**
+
+**[RunAsh | Y Combinator SUS W20](https://runash.in)** 
 
 ``RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur``
 
@@ -22,12 +32,16 @@ In the few years `Since 2007`,`Ram Murmu` started offline retail store in `Bokar
 
 # About #
 
-I am Innovation/Data Driven Entreprenur (I/DDE)<br>
+I Would like to introduce my self and our Startup Venture
+
 My name is Ram Murmu I am the ``Founder and Chief Executive Officer (CEO) ,RunAsh``<br>
 Company Name ``RunAsh Digital Innovation Technologies Private Limited``<br>
 Company Identification Number (CIN)U52590JH2021PTC016339<BR>
 Company PAN AAKCR9258E<BR>
-DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525<br>
+DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525
+  
+**Headquaters**
+  
 C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014
   
 [Admin Email ID](admin@runash.in) [Company Website](https://runash.in) [Github](https://github.com/runash) [LinkedIn](https://linkedin.com/in/runashstartup) [Hacker New](https://ycombinator/runash) [Medium](https://medium.com/runash)
@@ -37,7 +51,7 @@ C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jh
   Vaibhav Murmu ``Co-Founder and Chief Financial Officer (CFO),RunAsh``<br>
   S/o Sanu Murmu
   Date of Birth 01-01-1999<br>
-  DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526
+  DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>
   C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India 
 
 [Admin Email Id](sales@runash.in)
@@ -57,7 +71,7 @@ _My business journey starts from 2007 when I was in 7th standard of school.The n
 
 
 
-# Initiative #
+# Initiative By Ram Murmu #
   
 **RunAsh Industries.**<br>
   (Sole Proprietorship)<br>
@@ -82,7 +96,7 @@ _Parent Company_<br>
 # Background #
 ### Ram Murmu ###
 
-  ### Eduction ###
+  ### 🎓Eductio ###
   
 ``Massachusetts Institute of Technology``(MIT OCW & X)-Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present
   
@@ -104,7 +118,7 @@ _Parent Company_<br>
 
 ## Vaibhav Murmu ##
 
- ### Education ###
+ ### 🎓Education ###
   ``Harvardx``Online Business and Mangement,Lifelong Learner @Work,2020-Present
   
   ``Indian Institute of Management x``Online Business and Management,Lifetime Learner @Work,2020-Present
@@ -130,3 +144,5 @@ Ram Murmu<br> Official Social Network Channels<br> [Facebook](https://https://fa
 [Twitter](https://twitter.com/_RamMurmu) [Medium](https://medium.com/RamMurmu) [Reddit](https://reddit.com/RamMurmu)
 
 Vaibhav Murmu <br>Social Network Channels<br> [Facebook](https://facebook.com/vaibhav.Murmu) [Twitter](https://twitter.com/VaibhavMurmu) [Instagram](https://Instagram.com/Vaibhav.Murmu) [Pintrest](https://Pinterest.com/VaibhavMurmu) [Youtube](https://Youtube.com/VaibhavMurmu)
+  
+**Copyright 2021 © Ram Murmu.All Rights Reserved**
