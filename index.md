@@ -1,11 +1,11 @@
 **RAM MURMU✨**
 
-**_Higher thinking than Dream!_**
+**_Higher thinking than Dream!_**<br>The biggest thing of our startup's journey has to learn from open source.and Learning from the world's best.The most important thing for our startup with new principles is learning.If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.
 
 ### 🎉Welcome ###
 
 
-🙏Namast | 🤝Hello |👋Hi
+🙏Johar |👏Namast | 🤝Hello |👋Hi |☝Howday
 
 
 
@@ -53,9 +53,10 @@ C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India**
 
 [Admin Email Id](sales@runash.in)
   
-# Story #
+# 🎤Story #
 >
 _My name is Ram Murmu I am 26 years old.My late grandfather's name is `Rameshwar Murmu`, and my late grandmother's name is `Hira Muni Devi Murmu`.My father's name is `Sanu Murmu` and my mother's name is `Birji Devi Murmu`.My brother's name is `Vaibhav Murmu` and my elder sister's name is `Pooja Kumari Murmu` and younger sister's name is `Vitteey Nirali Murmu`.
+My grandfather always used to tell me that everything is possible with hard work. and everything can be found.  
 I was born on November 11, 1994.My grandfather was a farmer and when our land was taken by Bokaro Steel Plant (SAIL) then my grandfather got a job in the operation department in the plant._ 
 _My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
 
@@ -81,9 +82,16 @@ _Parent Company_<br>
  
  _Subsidiries Company_<br>
  **RunAsh, Inc.**(Coming Soon)<br>
- ( Delaware C Corporation)
+ ( Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States) <br>Mountain View San Francisco, California<BR>Remot working
   
-
+**Aims and Objectives**
+  
+To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier.  
+  
+**Disciplin**
+  
+ Whatever I am today, I am at this stage because of my discipline, hard work, and dedication. 
+  
 # Background #
 ### Ram Murmu ###
 
@@ -96,7 +104,7 @@ _Parent Company_<br>
 ### Most Impressive thing ###
   ``We are Building the first live retail streaming platform``
   
-### Employement ###
+### 💼Employement ###
   ``RunAsh (YC SUS W20)``2021-Present
   
 ### Responsibility ###
@@ -115,7 +123,7 @@ _Parent Company_<br>
   
   ``Indian Institute of Management x``Online Business and Management,Lifetime Learner @Work,2020-Present
   
-### Employement ###
+### 💼Employement ###
   ``RunAsh (YC SUS W20)`` 2021-Present
   
 ### Responsibility ###
@@ -128,7 +136,7 @@ _Parent Company_<br>
   
 For more details see [RunAsh Blog](https://runash.in/blog).
 
-# Support or Contact #
+# Support or Contact Details#
 
 **Connect with Us**
 
