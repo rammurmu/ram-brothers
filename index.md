@@ -25,7 +25,7 @@ RunAsh | Y Combinator SUS W20
 
 RunAsh is the Startup India and Y Combinator Startup School recognized startup venture
 
-In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Industrial Area,Biada Street,Bokaro Jharkhand India.<br> today **The journey from a small village inIndia to Sillicon Vallay**
+In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Industrial Area,Biada Street,Bokaro Jharkhand India.<br> today **The journey from a small village in India to Sillicon Vallay**
 
 **Brief Contents**
 
