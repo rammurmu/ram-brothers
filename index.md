@@ -17,15 +17,15 @@
 
 **OFFICIAL WEBSITE [GitHub](https://rammurmu.github.io/official-page/)**
 
-#### [I'm NewIndia's Digital Innovation Driven Entrepreneur (IDE),Innovator,Developer and IT Professional](https://linkedin.com/in/rammurmu) ####
+#### [The journey from a small village in India to  startup school community member](https://startupschool.org/runash) ####
 
 RunAsh | Startup India Batch 2018
 
 RunAsh | Y Combinator SUS W20
 
-RunAsh is the Startup India and Y Combinator Startup School W20 Recoganized Startup Ventur.
+RunAsh is the Startup India and Y Combinator Startup School recognized startup venture
 
-In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Industrial Area,Biada Street,Bokaro Jharkhand India.and today **India to Sillicon Vallay**
+In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Industrial Area,Biada Street,Bokaro Jharkhand India.<br> today **The journey from a small village inIndia to Sillicon Vallay**
 
 **Brief Contents**
 
@@ -33,14 +33,14 @@ In the few years Since 2007,Ram Murmu started offline retail store in Bokaro Ind
 
 **About**
 
-I Would like to introduce my self and our Startup Venture
+**I Would like to introduce my self and our Startup Venture**
 
 **My name is Ram Murmu I am the Founder and Chief Executive Officer (CEO) ,RunAsh<br>
 Company Name RunAsh Digital Innovation Technologies Private Limited<br>
 Company Identification Number (CIN)U52590JH2021PTC016339 <BR> Company PAN AAKCR9258E<BR>
 DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525**
   
-**Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,Bokaro,Jharkhand,India,827014**
+**Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014**
   
 [Admin Email ID](admin@runash.in) [Company Website](https://runash.in) [Github](https://github.com/runash) [LinkedIn](https://linkedin.com/in/runashstartup) [Hacker New](https://ycombinator/runash) [Medium](https://medium.com/runash)
   
@@ -55,16 +55,16 @@ C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India**
   
 # 🎤Story #
 >
-_My name is Ram Murmu I am 26 years old.My late grandfather's name is `Rameshwar Murmu`, and my late grandmother's name is `Hira Muni Devi Murmu`.My father's name is `Sanu Murmu` and my mother's name is `Birji Devi Murmu`.My brother's name is `Vaibhav Murmu` and my elder sister's name is `Pooja Kumari Murmu` and younger sister's name is `Vitteey Nirali Murmu`.
+_My name is Ram Murmu I am 27 years old.My late grandfather's name is `Rameshwar Murmu`, and my late grandmother's name is `Hira Muni Devi Murmu`.My father's name is `Sanu Murmu` and my mother's name is `Birji Devi Murmu`.My brother's name is `Vaibhav Murmu` and my elder sister's name is `Pooja Kumari Murmu` and younger sister's name is `Vitteey Nirali Murmu`.
 My grandfather always used to tell me that everything is possible with hard work. and everything can be found.  
 I was born on November 11, 1994.My grandfather was a farmer and when our land was taken by Bokaro Steel Plant (SAIL) then my grandfather got a job in the operation department in the plant._ 
-_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
+_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the journey from a small village in India to `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
 
 # Journy #
 >
-Our family business started from 2007. We started business with an offline retail store _Shri Ram General Store_
+Our family business started from 2008. We started business with an offline retail store _Shri Ram General Store_
 
-_My business journey starts from 2007 when I was in 7th standard of school.The name of my school was SS Institute of Human Development.The name of my principal madam is Usha Rai who gave me the title of Best Student of the Year in 2009. And also inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills._
+_My business journey starts from 2008 when I was in 7th standard of school.The name of my school was SS Institute of Human Development.The name of my principal madam is Usha Rai who gave me the title of Best Student of the Year in 2009. And also inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills.This is the 9-years dream project of my life to learn, research, create and innovate through discipline, hard work, and persevering in-depth study to get from the classroom to the boardroom._
 
 
 
