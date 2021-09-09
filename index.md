@@ -1,6 +1,4 @@
-**RAM MURMU✨**
-
-### 🎉Welcome ###
+### Welcome✨ ###
 
 
 ``🙏Johar``  ``👏Namast``  ``🤝Hello``  ``👋Hi``  ``☝Howday``
@@ -16,7 +14,8 @@
 
 #### [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) ####
 
-RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
+RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20     |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132705497-d34a5e43-f119-4de8-99ae-94c9978a77e3.png )
+
 
 RunAsh is the Startup India and Y Combinator Startup School recognized startup venture
 
@@ -24,9 +23,9 @@ In the few years Since 2007. Ram Murmu started offline retail store in Bokaro In
 
 # Brief Content ✨ #
 
-**About**
+### About ###
 
-**Introducing RunAsh Startup Venture🚀**
+#### Introducing RunAsh Startup Venture🚀 ####
 
 **RunAsh Digital Innovation Technologies Private Limited<br>
 Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<BR>
@@ -45,7 +44,7 @@ C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India**
 
 [Email Us](sales@runash.in) ‣
   
-# 🎤Story # 
+# The Ram Murmu Story🎤 # 
   
  Last update Nov 9,2021
   
@@ -53,21 +52,15 @@ C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India**
  > 
  _We Started Working together on a Startup Idea in 2011.The first time I read and hear about the eCommerce business technology Society.By Kenneth C. Laudon and Carol Guercio Traver ,Written Book📖 "E-COMMERCE" FIRST IMPRESSION,2006 (New York University).and Real-World Real-Business Startup Ventures Case Study._
 
-_My name is Ram Murmu I am 27 years old.I was born on November 11, 1994.My late grandfather's name is `Rameshwar Murmu`, and my late grandmother's name is `Hira Muni Devi Murmu`.My father's name is `Sanu Murmu` and my mother's name is `Birji Devi Murmu`.My brother's name is `Vaibhav Murmu` and my elder sister's name is `Pooja Kumari Murmu` and younger sister's name is `Vitteey Nirali Murmu`._
-  
-  
-[Lear More](https://)‣
-  
-_My grandfather was a farmer and when our land was taken by Bokaro Steel Plant (SAIL) then my grandfather got a job in the operation department in the plant._ 
-My business journey starts from 2008 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the journey from a small village in India to `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
+_My name is Ram Murmu I am 27 years old.I was born on November 11, 1994.My late grandfather's name is `Rameshwar Murmu`,and father's name is `Sanu Murmu` and brother's name is `Vaibhav Murmu` and younger sister's name is `Vitteey Nirali Murmu`._
+My grandfather was a farmer and when our land was taken by Bokaro Steel Plant (SAIL) then my grandfather got a job in the operation department in the plant._ 
+My business journey starts from 2008 when I was in 7th standard of school.The name of my school was `SS Institute of Human Development`.The name of my principal madam is `Usha Rai` who gave me the title of `🥇Best Student of the Year in 2009`. And also inspired me to be the best leader. It is with his inspiration that today I have reached the journey from a small village in India to `Silicon Valley Y Combinator Startup School`.I have always used the guidance and discipline shown by him in my studies and works. And by `continuously studying deeply`, I learned something new and acquired new skills._
 
 # Journy ✨ #
 >
 _Our family business started from 2008. We started business with an offline retail store _Shri Ram General Store_
   
-I Started Working, Studies, and research together the Innovative Idea in 2011.My grandfather and my principal madam inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills.This is the 9-years dream project of my life to learn, research, create and innovate through discipline, hard work, and persevering in-depth study to get from the School classroom to the boardroom.When I started walking, there was no road in front of me, no support system to move forward, there was only one MSME scheme in India from where I could get help.But that too I did not get help to start my business, I was told that we do not provide help for cyber business.then I was realized that there is no way to start a small business in India, the only way was education which will teach me and tell me how a big business can be made and solved.then I challenged myself to build a better solution to this problem. I have faced personally faced this burning problem when I started my first unorganized offline retail business in 2008. I need lack adequate capital and resources and too much time required hard work and struggle but does not reach my needs and goals, I have seen that many more unorganized retail businesses face this problem daily basis, and yers later turn into successful businesses there was no solution locally.so I decided to solve this problem. and I will make a sustainable, affordable, efficient business model and do something different from the retail industry._
-  
-Studies and research deeply for 9 years. today building the first live retail streaming platform.
+I Started Working, Studies, and research together the Innovative Idea in 2011.My grandfather and my principal madam inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills.This is the 9-years dream project of my life to learn, research, create and innovate through discipline, hard work, and persevering in-depth study to get from the School classroom to the boardroom.When I started walking, there was no road in front of me, no support system to move forward, there was only one MSME scheme in India from where I could get help.But that too I did not get help to start my business, I was told that we do not provide help for cyber business.then I was realized that there is no way to start a small business in India, the only way was education which will teach me and tell me how a big business can be made and solved.then I challenged myself to build a better solution to this problem. I have faced personally this burning problem when I started my first unorganized offline retail business in 2008. I need lack adequate capital and resources and too much time required hard work and struggle but does not reach my needs and goals, I have seen that many more unorganized retail businesses face this problem daily basis, and yers later turn into successful businesses there was no solution locally.so I decided to solve this problem. and I will make a sustainable, affordable, efficient business model and do something different from the retail industry.So I Studies and research deeply for 9 years.and today building the first live retail streaming platform.
   
   
 ## ``Initiative By Ram Murmu✨`` ##
@@ -87,23 +80,23 @@ _Parent Company_<br>
   
 **``🎯Aims and Objectives``**
   
-To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier.  
+``To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier.``  
   
   
 
  **``Discipline``**
   
   
- Whatever I am today, I am at this stage because of my discipline, hard work, and dedication. 
+ **``Whatever I am today, I am at this stage because of my discipline, hard work, and dedication.``** 
   
 # Background #
 ### Ram Murmu✨ ###
 
  **``🎓Eduction``**
   
-``Massachusetts Institute of Technology``(MIT OCW & X)-Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present
+**``Massachusetts Institute of Technology``(MIT OCW & X)-Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present**
   
-``London University``-Online Master of Business & Management, Corporate Strategy, Brand Management, Managing the startup of Future, How to Finance & Grow your Startup, Lifetime Learner @Work,2018-Present
+**``London University``-Online Master of Business & Management, Corporate Strategy, Brand Management, Managing the startup of Future, How to Finance & Grow your Startup, Lifetime Learner @Work,2018-Present**
   
 ### Most Impressive thing ###
   ``We are Building the first live retail streaming platform``
@@ -123,9 +116,9 @@ To be included in the list of the world's best entrepreneurs and create somethin
 
 **``🎓Education``**
   
-  ``Harvardx``Online Business and Mangement,Lifelong Learner @Work,2020-Present
+**``Harvardx``Online Business and Mangement,Lifelong Learner @Work,2020-Present**
   
-  ``Indian Institute of Management x``Online Business and Management,Lifetime Learner @Work,2020-Present
+**``Indian Institute of Management x``Online Business and Management,Lifetime Learner @Work,2020-Present**
   
 ### ``💼Employement`` ###
   RunAsh (YC SUS W20)2021-Present
