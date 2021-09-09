@@ -5,17 +5,15 @@
 
 ``🙏Johar`` | ``👏Namast`` | ``🤝Hello`` | ``👋Hi`` | ``☝Howday``
 
-
-
-| [📧Email US](runashInc@gmail.com) | [📞Call US ](https://trueculler.com/rammurmu+916203711869) | [💬Whats APP](https://whatsupbusiness.com/runash+916203711869) | [🗺Location](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0) |
-
 # INTRODUCTION #
 
 **MY NAME IS RAM MURMU I'M THE FOUNDER & CEO,RunAsh**
 
-**``Higher-thinking than Dream!``**<br>The biggest thing of our startup's journey has to learn from open source.and Learning from the world's best.The most important thing for our startup with new principles is learning.If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything is possible with hard work. and everything can be found.
+| [📧Email US](runashInc@gmail.com) | [📞Call US ](https://trueculler.com/rammurmu+916203711869) | [💬Whats APP](https://whatsupbusiness.com/runash+916203711869) | [🗺Location](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0) | [GitHub](https://rammurmu.github.io/official-page/)
 
-**OFFICIAL WEBSITE [GitHub](https://rammurmu.github.io/official-page/)**
+
+
+**``Higher-thinking than Dream!``**<br>The biggest thing of our startup's journey has to learn from open source.and Learning from the world's best.The most important thing for our startup with new principles is learning.If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything is possible with hard work. and everything can be found.
 
 
 #### [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) ####
@@ -42,7 +40,7 @@ DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525**
   
 **Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014**
   
-| [Admin Email ID](admin@runash.in) | [Company Website](https://runash.in) | [Github](https://github.com/RunAsh) | [LinkedIn](https://linkedin.com/in/runashstartup) | [Hacker New](https://ycombinator/RunAsh) | [Medium](https://medium.com/runash) | [Twitter](https://twitter.com/runashcompany) |[Facebook](https://facebook.com/runashcompany) |[Pinterest](https://pinterest.com/runash) |
+| [Admin Email ID](admin@runash.in) | [Company Website](https://runash.in) | [Github](https://github.com/RunAsh) | [LinkedIn](https://linkedin.com/in/runashstartup) | [Hacker New](https://ycombinator/RunAsh) | [Medium](https://medium.com/runash) | [Twitter](https://twitter.com/runashcompany) |[Facebook](https://facebook.com/runashcompany) |[Pinterest](https://pinterest.com/runash) | [RunAsh Blog](https://runash.in/blog) |
   
 **My Co-Founder Details (We are both brother)<br>
 Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br>
@@ -146,7 +144,7 @@ To be included in the list of the world's best entrepreneurs and create somethin
   
  | [LinkedIn](https://linkedin.com/in/vaibhavmurmu) | [@VaivhavMurmu](https://twitter.com/vaibhavmurmu) |
   
-For more details see [RunAsh Blog](https://runash.in/blog).
+For more details see [Learn More](https://).
 
 #  Contact With Us #
 
@@ -154,11 +152,10 @@ For more details see [RunAsh Blog](https://runash.in/blog).
 
 Ram Murmu ✨<br> Official Social Network Channels
   
-[Facebook](https://https://facebook.com/RamMurmuofficialPage) | [Instagram](https://instagram.com/RamMurmuOfficialPage) |
-[Twitter](https://twitter.com/_RamMurmu) | [Medium](https://medium.com/RamMurmu) | [Reddit](https://reddit.com/RamMurmu) |
+| [Facebook](https://https://facebook.com/RamMurmuofficialPage) | [Instagram](https://instagram.com/RamMurmuOfficialPage) |  [Twitter](https://twitter.com/_RamMurmu) | [Medium](https://medium.com/RamMurmu) | [Reddit](https://reddit.com/RamMurmu) |
 
 Vaibhav Murmu✨ <br>Social Network Channels
   
-[Facebook](https://facebook.com/vaibhav.Murmu) | [Twitter](https://twitter.com/VaibhavMurmu) | [Instagram](https://Instagram.com/Vaibhav.Murmu) | [Pintrest](https://Pinterest.com/VaibhavMurmu) | [Youtube](https://Youtube.com/VaibhavMurmu) |
+| [Facebook](https://facebook.com/vaibhav.Murmu) | [Twitter](https://twitter.com/VaibhavMurmu) | [Instagram](https://Instagram.com/Vaibhav.Murmu) | [Pintrest](https://Pinterest.com/VaibhavMurmu) | [Youtube](https://Youtube.com/VaibhavMurmu) |
   
 **Copyright 2021 © Ram Murmu.All Rights Reserved**
