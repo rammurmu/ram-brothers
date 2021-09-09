@@ -3,11 +3,11 @@
 ### 🎉Welcome ###
 
 
-``🙏Johar`` | ``👏Namast`` | ``🤝Hello`` | ``👋Hi`` | ``☝Howday``
+``🙏Johar``  ``👏Namast``  ``🤝Hello``  ``👋Hi``  ``☝Howday``
 
-# INTRODUCTION #
+# Introduction #
 
-| [``📧Email US``](runashInc@gmail.com) | [``📞Call US``](https://trueculler.com/rammurmu+916203711869) | [``💬Whats APP``](https://whatsupbusiness.com/runash+916203711869) | [``🗺Location``](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0) | [``GitHub``](https://rammurmu.github.io/official-page/)
+[``📧Email US``](runashInc@gmail.com)  [``📞Call US``](https://trueculler.com/rammurmu+916203711869)  [``💬Whats APP``](https://whatsupbusiness.com/runash+916203711869)  [``🗺Location``](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0)  [``GitHub``](https://rammurmu.github.io/official-page/)
 
 **MY NAME IS RAM MURMU I'M THE FOUNDER & CEO,RunAsh**
 
@@ -22,9 +22,7 @@ RunAsh is the Startup India and Y Combinator Startup School recognized startup v
 
 In the few years Since 2007. Ram Murmu started offline retail store in Bokaro Industrial Area<br>Biada Street Bokaro Jharkhand India.<br> and today **The journey from a small village in India to Sillicon Vallay**
 
-**Brief Contents**
-
-# Introduction ✨ #
+# Brief Content ✨ #
 
 **About**
 
@@ -119,7 +117,7 @@ To be included in the list of the world's best entrepreneurs and create somethin
 ### Intrest ###
   ``E-Commerce`` ``B2C/Entrepries`` ``Consumer`` ``Marketplace``
   
- | [LinkedIn](https://linkedin.com/in/rammurmu) | [@_RamMurmu](https://twitter.com/_rammurmu) |
+ [``LinkedIn``](https://linkedin.com/in/rammurmu)  [``@_RamMurmu``](https://twitter.com/_rammurmu) 
 
 ## Vaibhav Murmu✨ ##
 
@@ -138,7 +136,7 @@ To be included in the list of the world's best entrepreneurs and create somethin
 ### Intrest ###
   ``Finance`` ``Marketing``
   
- | [LinkedIn](https://linkedin.com/in/vaibhavmurmu) | [@VaivhavMurmu](https://twitter.com/vaibhavmurmu) |
+  [``LinkedIn``](https://linkedin.com/in/vaibhavmurmu)  [``@VaivhavMurmu``](https://twitter.com/vaibhavmurmu) 
   
 For more details see [Learn More](https://).
 
@@ -148,10 +146,10 @@ For more details see [Learn More](https://).
 
 Ram Murmu ✨<br> Official Social Network Channels
   
-| [Facebook](https://https://facebook.com/RamMurmuofficialPage) | [Instagram](https://instagram.com/RamMurmuOfficialPage) |  [Twitter](https://twitter.com/_RamMurmu) | [Medium](https://medium.com/RamMurmu) | [Reddit](https://reddit.com/RamMurmu) |
+| [``Facebook``](https://https://facebook.com/RamMurmuofficialPage) | [``Instagram``](https://instagram.com/RamMurmuOfficialPage) |  [``Twitter``](https://twitter.com/_RamMurmu) | [``Medium``](https://medium.com/RamMurmu) | [``Reddit``](https://reddit.com/RamMurmu) |
 
 Vaibhav Murmu✨ <br>Social Network Channels
   
-| [Facebook](https://facebook.com/vaibhav.Murmu) | [Twitter](https://twitter.com/VaibhavMurmu) | [Instagram](https://Instagram.com/Vaibhav.Murmu) | [Pintrest](https://Pinterest.com/VaibhavMurmu) | [Youtube](https://Youtube.com/VaibhavMurmu) |
+ | [``Facebook``](https://facebook.com/vaibhav.Murmu) | [``Twitter``](https://twitter.com/VaibhavMurmu) | [``Instagram``](https://Instagram.com/Vaibhav.Murmu) | [``Pintrest``](https://Pinterest.com/VaibhavMurmu) | [``Youtube``](https://Youtube.com/VaibhavMurmu) |
   
 **Copyright 2021 © Ram Murmu.All Rights Reserved**
