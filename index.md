@@ -14,7 +14,7 @@
 
 #### [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) ####
 
-RunAsh is Startup India Batch 2018 and RunAsh is Y <br>Combinator SUS W20.RunAsh is the strartup and <br>Y Combinator Startup School<br>Reconized Startup Venture<br>In the few years Since 2008.Ram Murmu Started <br>Offline Retail Store in Bokaro Industrial Area Biada<br> Street Bokaro Jharkhand India.  |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132705497-d34a5e43-f119-4de8-99ae-94c9978a77e3.png )
+RunAsh is Startup India Batch 2018 and RunAsh is Y Combinator SUS W20.RunAsh is the strartup <br>and Y Combinator Startup School Reconized Startup Venture<br>In the few years Since 2008.Ram Murmu Started Offline Retail Store<br> in Bokaro Industrial Area Biada<br> Street Bokaro Jharkhand India.  |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132705497-d34a5e43-f119-4de8-99ae-94c9978a77e3.png )
 
 
 
