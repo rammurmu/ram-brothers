@@ -7,14 +7,14 @@
 
 [``📧Email US``](runashInc@gmail.com)  [``📞Call US``](https://trueculler.com/rammurmu+916203711869)  [``💬Whats APP``](https://whatsupbusiness.com/runash+916203711869)  [``🗺Location``](https://www.google.co.in/maps/place/RunAsh/@23.6786667,86.0570712,17z/data=!3m1!4b1!4m5!3m4!1s0x39f43db4310ac147:0x3ad549a4a95318f4!8m2!3d23.6786667!4d86.0592599?hl=en&authuser=0)  [``GitHub``](https://rammurmu.github.io/official-page/)
 
-**MY NAME IS RAM MURMU I'M THE FOUNDER & CEO,RunAsh**
+**MY NAME IS RAM MURMU I'M THE FOUNDER & CEO, RunAsh**
 
-**``Higher-thinking than Dream!``**<br>The biggest thing of our startup's journey has to learn from open source.and Learning from the world's best.The most important thing for our startup with new principles is learning.If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything is possible with hard work. and everything can be found.
+**``Higher-thinking than Dream!``**<br>The biggest thing of our startup's journey has to learn from open source. and Learning from the world's best.The most important thing for our startup with new principles is learning. If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything is possible with hard work. and everything can be found.
 
 
 #### [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) ####
 
-RunAsh is Startup India Batch 2018 and RunAsh is Y Combinator SUS W20.RunAsh is the strartup <br>and Y Combinator Startup School Reconized Startup Venture<br>In the few years Since 2008.Ram Murmu Started Offline Retail Store<br> in Bokaro Industrial Area Biada<br> Street Bokaro Jharkhand India.  |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132705497-d34a5e43-f119-4de8-99ae-94c9978a77e3.png )
+RunAsh is Startup India Batch 2018 and RunAsh is Y Combinator SUS W20.<br>RunAsh is the strartup and Y Combinator Startup School<br> Reconized Startup Venture In the few years Since 2008.Ram Murmu,<br> Started Offline Retail Store in Bokaro Industrial Area Biada Street Bokaro Jharkhand India.  |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132705497-d34a5e43-f119-4de8-99ae-94c9978a77e3.png )
 
 
 
