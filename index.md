@@ -27,7 +27,8 @@ RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
  
 RunAsh is the Startup India and Y Combinator Startup School Reconized Startup Venture.|
 
-###### RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 ######
+###### RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 ###### | <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" /> 
+ 
   
 ###### Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014 ######
   
