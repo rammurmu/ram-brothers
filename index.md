@@ -27,8 +27,8 @@ RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
  
 RunAsh is the Startup India and Y Combinator Startup School Reconized Startup Venture.|
 
-###### RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 <br>  <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" /> |  <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" /> 
- ######
+###### RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 <br>  <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" />   <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" /> 
+ 
  
   
 ###### Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014 ######
@@ -79,9 +79,8 @@ Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States)
   
 ###### To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier. ######  
   
-**Discipline**
- 
- ###### Whatever I am today, I am at this stage because of my discipline, hard work, and dedication. ######
+**Discipline**<br>
+ Whatever I am today, I am at this stage because of my discipline, hard work, and dedication.
   
 # Background #
 
