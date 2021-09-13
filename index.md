@@ -1,4 +1,4 @@
-### Welcome to the official Github profile of <br>Ram Murmu ###
+### Welcome to the official Github <br>profile of Ram Murmu & Vaibhav Murmu ###
 
 
 ``🙏Johar``  ``👏Namast``  ``🤝Hello``  ``👋Hi``  ``☝Howday``
@@ -15,13 +15,6 @@
 
 ### [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) ###
 
-**RunAsh is the Startup India and Y Combinator Startup School Reconized Startup Venture.**         |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
-
-
-
-
-
-
 RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
 
 
@@ -31,22 +24,24 @@ RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
 **MY NAME IS RAM MURMU I'M THE FOUNDER & CEO, RunAsh**<br>RunAsh is the first live retail streaming hybrid marketplace.<br>previously as a proprietor for RunAsh Industries.
 
 ### Introducing RunAsh Startup Venture🚀 ###
-<img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" />
+| <img src="https://sat02pap001files.storage.live.com/y4mIjszOP6hMLqXGLz-UXKQo_yAVGK0Gp9YILzXPC4evZfBgIYs67kKV7DAp8PlPFozhi9UP_z2WIA3Kf2DoA-eYnjM9PpZk-m1WfSo1smlgmkP97WQyvieNujxQkE6lMUVlCbNPktOGdl3tajqf4-ZNWwjksx0rwycDYwkCIyvarzn10-nSTkO6CiWoZdSxJ-k?width=256&height=256&cropmode=none" width="256" height="256" /> |
 
-**RunAsh Digital Innovation Technologies Private Limited<br>
-Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<BR>
-DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525**
+**RunAsh is the Startup India and Y Combinator Startup School Reconized Startup Venture.**         |  ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)
+
+###### RunAsh Digital Innovation Technologies Private Limited<br>
+###### Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<BR>
+###### DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 ######
   
-**Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014**
+###### Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014 ######
   
 | [``Email ID``](admin@runash.in) | [``Website``](https://runash.in) | [``Github``](https://github.com/RunAsh) | [``LinkedIn``](https://linkedin.com/in/runashstartup) | [``Hacker News``](https://ycombinator/RunAsh) | [``Medium``](https://medium.com/runash) | [``Twitter``](https://twitter.com/runashcompany) |[``Facebook``](https://facebook.com/runashcompany) |[``Reddit``](https://reddit.com/runash) | [``Blog``](https://runash.in/blog) |
   
-**My Co-Founder Details (We are both brother)<br>
-Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br>
-S/o Sanu Murmu
-Date of Birth 01-01-1999<br>
-DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>
-C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India** 
+###### My Co-Founder Details (We are both brother)<br>
+###### Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br>
+###### S/o Sanu Murmu
+###### Date of Birth 01-01-1999<br>
+###### DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>
+###### C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India ######
 
 [``Email Us »``](sales@runash.in) 
   
@@ -93,8 +88,6 @@ Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States)
   
 
  **Discipline**
-  
-  
  ###### Whatever I am today, I am at this stage because of my discipline, hard work, and dedication. ######
   
 # Background #
