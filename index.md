@@ -1,7 +1,7 @@
 ### Welcome to the official Github <br>profile of Ram Murmu & Vaibhav Murmu ###
 
 
-``🙏Johar``  ``👏Namast``  ``🤝Hello``  ``👋Hi``  ``☝Howday``
+``🙏Johar``  ``👏Namast``  ``🤝Hello``  ``👋Hi``  ``☝Howdy``
 
 # Introduction #
 
@@ -35,7 +35,7 @@ RunAsh is the Startup India and Y Combinator Startup School Reconized Startup Ve
   
 | [``Email ID``](admin@runash.in) | [``Website``](https://runash.in) | [``Github``](https://github.com/RunAsh) | [``LinkedIn``](https://linkedin.com/in/runashstartup) | [``Hacker News``](https://ycombinator/RunAsh) | [``Medium``](https://medium.com/runash) | [``Twitter``](https://twitter.com/runashcompany) |[``Facebook``](https://facebook.com/runashcompany) |[``Reddit``](https://reddit.com/runash) | [``Blog``](https://runash.in/blog) |
   
-###### My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br> S/o Sanu MurmuDate of Birth 01-01-1999<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India ######
+###### My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br> S/o Sanu Murmu Date of Birth 01-01-1999<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India ######
 
 [``Email Us »``](sales@runash.in) 
   
