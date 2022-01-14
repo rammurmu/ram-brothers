@@ -146,7 +146,7 @@ Vaibhav Murmu✨
  
  <html>
 
-  <script crossorigin src="https://runash.daily.co/new-prebuilt-test"></script>
+  <script crossorigin src="https://unpkg.com/@daily-co/daily-js"></script>
 
   <body>
 
@@ -154,7 +154,7 @@ Vaibhav Murmu✨
 
       callFrame = window.DailyIframe.createFrame();
 
-      callFrame.join({ url: 'DAILY_ROOM_URL' });
+      callFrame.join({ src="https://runash.daily/new-prebuilt-test" });
 
     </script>
 
