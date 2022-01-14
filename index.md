@@ -143,3 +143,37 @@ Vaibhav Murmu✨
  | [``Facebook``](https://facebook.com/vaibhav.Murmu) | [``Twitter``](https://twitter.com/VaibhavMurmu) | [``Instagram``](https://Instagram.com/Vaibhav.Murmu) | [``Pintrest``](https://Pinterest.com/VaibhavMurmu) | [``Youtube``](https://Youtube.com/VaibhavMurmu) |
   
 ###### Copyright 2021 © Ram Murmu.All Rights Reserved ######
+ 
+ <html>
+
+  <script crossorigin src="https://runash.daily.co/new-prebuilt-test"></script>
+
+  <body>
+
+    <script>
+
+      callFrame = window.DailyIframe.createFrame();
+
+      callFrame.join({ url: 'DAILY_ROOM_URL' });
+
+    </script>
+
+  </body>
+
+</html>
+
+callFrame = window.DailyIframe.createFrame({
+
+  showLeaveButton: true,
+
+  iframeStyle: {
+
+    position: 'fixed',
+
+    width: '100%',
+
+    height: '100%',
+
+  },
+
+});
