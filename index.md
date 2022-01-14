@@ -144,36 +144,36 @@ Vaibhav Murmu✨
   
 ###### Copyright 2021 © Ram Murmu.All Rights Reserved ######
  
- <html>
 
-  <script crossorigin src="https://unpkg.com/@daily-co/daily-js"></script>
 
-  <body>
 
-    <script>
 
-      callFrame = window.DailyIframe.createFrame();
 
-      callFrame.join({ src="https://runash.daily/new-prebuilt-test" });
 
-    </script>
 
-  </body>
 
-</html>
 
-callFrame = window.DailyIframe.createFrame({
 
-  showLeaveButton: true,
 
-  iframeStyle: {
 
-    position: 'fixed',
 
-    width: '100%',
 
-    height: '100%',
 
-  },
 
-});
+
+
+
+
+
+
+
+
+ 
+
+
+
+   
+
+ 
+
+
