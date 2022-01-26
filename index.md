@@ -1,14 +1,14 @@
-# Welcome to official github Site
-Profile of Ram Murmu and Vaibhav Murmu
-
-<div class="color-fg-success">Ram Murmu  , <a href="#" class="color-fg-inherit">Vaibhav Murmu</a></div>
+# Welcome 
+GitHub site of Ram Murmu and Vaibhav Murmu
 
 
 
 
 
 
-🙏Johar  👏Namast  🤝Hello  👋Hi  ☝Howdy
+
+
+🙏Johar  👏Namast  🤝Hello  👋Hi  ☝Howdy !
 
 # Introduction #
 
@@ -42,7 +42,7 @@ Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali
 >
 My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br> S/o Sanu Murmu Date of Birth 01-01-1999<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India 
 
-[Email Us](sales@runash.in)</button>
+[Email Us](sales@runash.in)
   
 The Ram Murmu Story🎤 
   
@@ -102,14 +102,14 @@ Ram Murmu is a member of the Y Combinator Startup School future Founder and hake
 Most Impressive thing
 We are Building the first live retail streaming platform 
   
-**💼Employement**
+**💼Employement**<br>
 RunAsh (YC SUS W20)2021-Present 
   
 Responsibility | Industry Knowledge
-  Operation Sales and Marketing Engineering | Brand Management Risk Management Analytical Skills Business Strategy`` Financial Acoounting Logistic Management Supply Chain Management Accounting
+  Operation, Sales and Marketing, Engineering | Brand Management, Risk Management, Analytical Skills, Business Strategy Financial Acoounting, Logistic Management, Supply Chain Management, Accounting
   
 Interest | Skills  |Interpersonal skill
-  E-Commerce B2C/Entrepries Consumer Marketplace | E-Commerce Business Analysis Entrepreneurship | Iime Management Skilled Multi-tasker  Team Management Multitasking Management
+  E-Commerce B2C/Entrepries Consumer Marketplace | E-Commerce Business Analysis Entrepreneurship | Iime Management Skilled Multi-tasker,  Team Management, Multitasking, Management
   
  [LinkedIn](https://linkedin.com/in/rammurmu)  [@_RamMurmu](https://twitter.com/_rammurmu) 
 
@@ -121,14 +121,14 @@ Harvard University <br>Online Business and Mangement, Global Open Restless Learn
   
 Indian Institute of Management  <br>Online Business and Management, Global Open Restless Learner,2020-Present 
   
-**💼Employement**
+**💼Employement**<br>
 RunAsh (YC SUS W20)2021-Present 
   
 Responsibility
   Finance Marketing Sales
   
 Intrest  |  Skills
-  Finance Marketing | Finance Hardwork Mutitasker Communication
+  Finance Marketing | Finance, Hardwork, Mutitasker, Communication
   
   [LinkedIn](https://linkedin.com/in/vaibhavmurmu)  [@VaivhavMurmu](https://twitter.com/vaibhavmurmu) 
   
@@ -140,11 +140,11 @@ For more details see [Learn More](https://).
   
 <img src="https://sat02pap001files.storage.live.com/y4mFLGIqhCwFWwQ578XRyc2y7AAZudHvMMvajASRNPg3fA_RRY7e8WNACuxdRPcRplx6mOe7J98FFvW94oyv3QS4kJD1KTviuihgwp8juk36lyUyuElJbf_M-7K0qwbm1ho4A7QK4XxSdVexQCTj0GXQBi5q2NNuBadLUbAwnQ7VgSiFT8Og0N04XsfX9V_g-wS?width=256&height=254&cropmode=none" width="256" height="254" /> | <img src="https://sat02pap001files.storage.live.com/y4mlcOZOqZy2UzYas50Wx1IgHBfVFqoPBgWIusdRvTMyJ_ARHN8GEja3wSM0Qzh7rOmy8xFYStmjVzZeeg1yOcqvAMIxQYzl27TcVHXFLjcuojnI6RkbA3EW6UT0K0wCYLRaDXDH8N9ay1qngD927t5JW1rALPdjcqrdvbWSnfMBE64f4VDUqpGT4gWb7I7Ksc4?width=256&height=248&cropmode=none" width="256" height="248" />
 
-Ram Murmu ✨
-  
-[LinkedIn](https://linkedin.com/in/RamMurmu) [Twitter](https://twitter.com/_RamMurmu)
 
-Vaibhav Murmu✨
+  
+[LinkedIn](https://linkedin.com/in/RamMurmu) [Twitter](https://twitter.com/_RamMurmu)[Hacker News](https://)
+
+
   
 
  
