@@ -1,7 +1,7 @@
 # Welcome to official github Site
 Profile of Ram Murmu and Vaibhav Murmu
 
-
+<div class="color-fg-success">Ram Murmu  , <a href="#" class="color-fg-inherit">Vaibhav Murmu</a></div>
 
 
 
@@ -25,7 +25,7 @@ Higher-thinking than Dream!
 RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W20
 
 
- Brief Content ✨ 
+
 
 About<br> Ram Murmu<br>
 My name is Ram Murmu, I'm Founder & CEO,RunAsh<br>previously as a proprietor for RunAsh Son's of Industries.
@@ -34,15 +34,15 @@ My name is Ram Murmu, I'm Founder & CEO,RunAsh<br>previously as a proprietor for
 <br>RunAsh is a live streaming hybrid platform and marketplace for retailing
  
 Startup India and Y Combinator Startup School Reconized Startup|
-
+>
 RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 <br>  
-
+>
 Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,827014 
   
-
+>
 My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br> S/o Sanu Murmu Date of Birth 01-01-1999<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135526<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro 827014 Jharkhand India 
 
-<button class="btn" type="button">[Email Us](sales@runash.in)</button>
+[Email Us](sales@runash.in)</button>
   
 The Ram Murmu Story🎤 
   
@@ -64,16 +64,16 @@ I Started Working, Studies, and research together the Innovative Idea in 2011.My
   
   
 **Initiative By Ram Murmu**✨
-  
+>  
 Sole Proprietorship<br> 
-RunAsh Industries.<br>
+RUNASH SON'S OF INDUSTRIES<br>
 Micro Small medium Enterprises(MSME) 
-  
+>  
 Parent Company<br>
 RunAsh Digital Innovation Technologies Private Limited.<br>
 Companies Act 2013<br>
 Private Limited Company
- 
+> 
 Subsidiries Company<br>
 RunAsh, Inc.(Coming Soon)<br>
 Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States) <br>Mountain View San Francisco,<BR>Remot working 
@@ -82,7 +82,7 @@ Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States)
   
 **🎯Aims and Objectives**
   
-###### To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier. ######  
+To be included in the list of the world's best entrepreneurs and create something new for the people of the world which can change their life and make their life easier.
   
 **Discipline**<br>
  Whatever I am today, I am at this stage because of my discipline, hard work, and dedication.
@@ -93,22 +93,22 @@ Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States)
  
 **Ram Murmu holds**  
   
-###### Massachusetts Institute of Technology(MIT OCW & X) <br>Online Micro Master of Technology, Entrepreneurship & Supply Chain Management, Lifelong Learner @Work,2013-Present ######
+Massachusetts Institute of Technology<br>Online Business and IT Management , Global Open Restless Learner,2013-Present 
   
-###### London University <br>Online Master of Business & Management, Corporate Strategy, Brand Management, Managing the startup of Future, How to Finance & Grow your Startup, Lifetime Learner @Work,2018-Present ######
+London University <br>Online Business & Management, Global Open Restless Learner,2018-Present 
   
-###### Ram Murmu is a member of the Y Combinator Startup School future Founder and haker news community. ######
+Ram Murmu is a member of the Y Combinator Startup School future Founder and haker news community. 
   
-### Most Impressive thing ###
-###### We are Building the first live retail streaming platform ######
+Most Impressive thing
+We are Building the first live retail streaming platform 
   
 **💼Employement**
-###### RunAsh (YC SUS W20)2021-Present ######
+RunAsh (YC SUS W20)2021-Present 
   
-**Responsibility | Industry Knowledge**
+Responsibility | Industry Knowledge
   Operation Sales and Marketing Engineering | Brand Management Risk Management Analytical Skills Business Strategy`` Financial Acoounting Logistic Management Supply Chain Management Accounting
   
-**Interest | Skills  |Interpersonal skills**
+Interest | Skills  |Interpersonal skill
   E-Commerce B2C/Entrepries Consumer Marketplace | E-Commerce Business Analysis Entrepreneurship | Iime Management Skilled Multi-tasker  Team Management Multitasking Management
   
  [LinkedIn](https://linkedin.com/in/rammurmu)  [@_RamMurmu](https://twitter.com/_rammurmu) 
@@ -117,17 +117,17 @@ Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States)
 
 **🎓Education**
   
-###### Harvardx <br>Online Business and Mangement,Lifelong Learner @Work,2020-Present ######
+Harvard University <br>Online Business and Mangement, Global Open Restless Learner,2020-Present 
   
-###### Indian Institute of Management x  <br>Online Business and Management,Lifetime Learner @Work,2020-Present ######
+Indian Institute of Management  <br>Online Business and Management, Global Open Restless Learner,2020-Present 
   
 **💼Employement**
-###### RunAsh (YC SUS W20)2021-Present ######
+RunAsh (YC SUS W20)2021-Present 
   
-**Responsibility**
+Responsibility
   Finance Marketing Sales
   
-**Intrest  |  Skills**
+Intrest  |  Skills
   Finance Marketing | Finance Hardwork Mutitasker Communication
   
   [LinkedIn](https://linkedin.com/in/vaibhavmurmu)  [@VaivhavMurmu](https://twitter.com/vaibhavmurmu) 
@@ -142,13 +142,13 @@ For more details see [Learn More](https://).
 
 Ram Murmu ✨
   
-
+[LinkedIn](https://linkedin.com/in/RamMurmu) [Twitter](https://twitter.com/_RamMurmu)
 
 Vaibhav Murmu✨
   
 
  
-  <button class="btn" type="button">[LinkedIn](https://linkedin.com/in/vaibhavmurmu)</button> <button class="btn" type="button">[Twitter]()</button> 
+[LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu)
  
 ###### Copyright 2021 © Ram Murmu.All Rights Reserved ######
  
