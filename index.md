@@ -1,7 +1,8 @@
 ---
 
 title: "Welcome to official site of RunAsh Son's"
-
+status: Last update
+date: 10 Feb 2022
 ---
 
 
@@ -44,7 +45,7 @@ My name is Ram Murmu, I'm Founder & CEO,RunAsh<br>previously as a proprietor for
 # ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Introducing RunAsh Startup🚀 
 <br>RunAsh is a live streaming hybrid platform and marketplace for retailing
  
-Startup India and Y Combinator Startup School Reconized Startup|
+Startup India and Y Combinator Startup School Reconized Startup
 >
 RunAsh Digital Innovation Technologies Private Limited<br> Company Identification Number (CIN)U52590JH2021PTC016339  <br> Company PAN AAKCR9258E<br>DIRECTOR IDENTIFICATION NUMBER (DIN) 09135525 <br>  
 >
@@ -57,7 +58,7 @@ My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chi
   
 The Ram Murmu Story🎤 
   
- Last update September 13,2021
+ 
   
 **The Start february 2011🎉🎉**
  > 
@@ -74,7 +75,7 @@ Our family business started from 2008. We started business with an offline retai
 I Started Working, Studies, and research together the Innovative Idea in 2011.My grandfather and my principal madam inspired me to be the best leader. It is with his inspiration that today I have reached the Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply and Learn from the world's best, I learned something new and acquired new skills.This is the 9-years dream project of my life to learn, research, create and innovate through discipline, hard work, and persevering in-depth study to get from the School classroom to the boardroom.When I started walking, there was no road in front of me, no support system to move forward, there was only one MSME scheme in India from where I could get help.But that too I did not get help to start my business, I was told that we do not provide help for cyber business.then I was realized that there is no way to start a small business in India, the only way was education which will teach me and tell me how a big business can be made and solved.then I challenged myself to build a better solution to this problem. I have faced personally this burning problem when I started my first unorganized offline retail business in 2008. I need lack adequate capital and resources and too much time required hard work and struggle but does not reach my needs and goals, I have seen that many more unorganized retail businesses face this problem daily basis, and yers later turn into successful businesses there was no solution locally.so I decided to solve this problem. and I will make a sustainable, affordable, efficient business model and do something different from the retail industry.So I Studies and research deeply for 9 years.and today building the first live retail streaming platform.
   
   
-**Initiative By Ram Murmu**✨
+**Initiative By RunAsh Son's**✨
 >  
 Sole Proprietorship<br> 
 RUNASH SON'S OF INDUSTRIES<br>
@@ -120,7 +121,7 @@ Responsibility | Industry Knowledge
   Operation, Sales and Marketing, Engineering | Brand Management, Risk Management, Analytical Skills, Business Strategy Financial Acoounting, Logistic Management, Supply Chain Management, Accounting
   
 Interest | Skills  |Interpersonal skill
-  E-Commerce B2C/Entrepries Consumer Marketplace | E-Commerce Business Analysis Entrepreneurship | Iime Management Skilled Multi-tasker,  Team Management, Multitasking, Management
+  E-Commerce B2C/Entrepries Consumer Marketplace | E-Commerce Business Analysis Entrepreneurship | Timeme Management Skilled Multi-tasker,  Team Management, Multitasking, Management
   
  [LinkedIn](https://linkedin.com/in/rammurmu)  [@_RamMurmu](https://twitter.com/_rammurmu) 
 
@@ -153,15 +154,15 @@ For more details see [Learn More](https://).
 
 
   
-[LinkedIn](https://linkedin.com/in/RamMurmu) [Twitter](https://twitter.com/_RamMurmu)[Hacker News](https://)
+[LinkedIn](https://linkedin.com/in/RamMurmu) [Twitter](https://twitter.com/_RamMurmu) [Hacker New](https://)
 
 
   
 
  
-[LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu)
+[LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu) [Hacker New](https://)
  
-###### Copyright 2021 © Ram Murmu.All Rights Reserved ######
+© 2022 Ram Murmu.All Rights Reserved 
  
 
 
