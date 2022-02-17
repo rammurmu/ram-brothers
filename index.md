@@ -4,7 +4,7 @@
 
 
 
-GitHub site of Ram Murmu and Vaibhav Murmu
+[GitHub](https://github.com/rammurmu) site of [Ram Murmu](https://linkedin.com/in/rammurmu) and [Vaibhav Murmu](https://linkedin.com/in/vaibhavmurmu)
 
 
 
@@ -22,7 +22,7 @@ GitHub site of Ram Murmu and Vaibhav Murmu
 # Introduction #
 
 
-
+Dream se bhee uchi soch!
 Higher-thinking than Dream!
 <br>The biggest thing of our startup's journey has to learn from open source. and Learning from the world's best.<br>The most important thing for our startup with new principles is learning. If our startup is a great idea. we don't<br> have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything<br> is possible with hard work. and everything can be found.
 
@@ -31,29 +31,29 @@ Higher-thinking than Dream!
 
 [The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) 
 
-RunAsh | Startup India Batch 2018 | RunAsh | Y Combinator SUS W**20**
+RunAsh | Startup India Batch **2018** | RunAsh | Y Combinator SUS W**20**
 
 
 
 
 About<br> Ram Murmu<br>
-My name is Ram Murmu, I'm Founder & CEO,**RunAsh**<br>previously as a proprietor for **RunAsh Son's of Industries.**
+My name is Ram Murmu, I'm Founder & CEO,**RunAsh**<br>previously as a proprietor for **RUNASH SON'S OF INDUSTRIES**
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)Introducing RunAsh Startup🚀 
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[Introducing RunAsh Startup🚀 ](https://runash.in)
 <br>RunAsh is a live streaming hybrid platform and marketplace for retailing
  
-**Startup India** and **Y Combinator Startup School** Reconized Startup
+**[Startup India](https://www.startupindia.gov.in)** and **[Y Combinator Startup School](https://www.ycombinator.com)** Reconized Startup
 
-**RunAsh Digital Innovation Technologies Private Limited**<br> Company Identification Number (CIN)**U52590JH2021PTC016339**  <br> Company PAN **AAKCR9258E**<br>DIRECTOR IDENTIFICATION NUMBER (DIN) **09135525** <br>  
+**[RunAsh Digital Innovation Technologies Private Limited](https://runash.in)**<br> Company Identification Number (CIN)**U52590JH2021PTC016339**  <br> Company PAN **AAKCR9258E**<br>DIRECTOR IDENTIFICATION NUMBER (DIN) **09135525** <br>  
 
 Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali,Bokaro,<br>Bokaro,Jharkhand,India,**827014** 
   
 
-My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),RunAsh<br> S/o Sanu Murmu Date of Birth **01-01-1999**<br>DIRECTOR IDENTIFICATION NUMBER (DIN) **09135526**<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro **827014** Jharkhand India 
+My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),**[RunAsh](https://runash.in)**<br> S/o Sanu Murmu Date of Birth **01-01-1999**<br>DIRECTOR IDENTIFICATION NUMBER (DIN) **09135526**<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro **827014** Jharkhand India 
 
 [Email Us](sales@runash.in)
   
-The Ram Murmu Story🎤 
+The Ram Murmu [Story🎤 ](https://medium.com/runash)
   
  
   
@@ -75,16 +75,16 @@ I Started Working, Studies, and research together the Innovative Idea in **2011*
 **Initiative By RunAsh Son's**✨
 
 Sole Proprietorship<br> 
-**RUNASH SON'S OF INDUSTRIES**<br>
+**[RUNASH SON'S OF INDUSTRIES](https://runashindustries.in)**<br>
 Micro Small medium Enterprises(**MSME**) 
 
 Parent Company<br>
-**RunAsh Digital Innovation Technologies Private Limited.**<br>
+**[RunAsh Digital Innovation Technologies Private Limited.](https://runash.in)**<br>
 Companies Act **2013**<br>
 Private Limited Company
 
 Subsidiries Company<br>
-**RunAsh, Inc.**(Coming Soon)<br>
+**[RunAsh, Inc.](https://runash.in)**(Coming Soon)<br>
 Delaware C Corporation)<BR>Delaware Silicon Valley New York City (United States) <br>Mountain View San Francisco,<BR>Remot working 
   
 
@@ -95,7 +95,7 @@ To be included in the list of the world's best entrepreneurs and create somethin
   
 **Discipline**<br>
  Whatever I am today, I am at this stage because of my discipline, hard work, and dedication.<br>
- We believe **OPEN SOURCE EDUCATION** is future<br>
+ We believe **[OPEN SOURCE EDUCATION](https://Wikipedia.com/open-source-education)** is future<br>
  Open source philosophy for code,data, and policy development and<br>
  Fail fast philosophy 
  
@@ -105,9 +105,9 @@ To be included in the list of the world's best entrepreneurs and create somethin
  
 **Ram Murmu holds**  
   
-Massachusetts Institute of Technology<br>Online Business and IT Management , Global Open Restless Learner,**2013**-Present 
+[Massachusetts Institute of Technology](https://mit.com)<br>Online Business and IT Management , Global Open Restless Learner,**2013**-Present 
   
-London University <br>Online Business & Management, Global Open Restless Learner,**2018**-Present 
+[London University](https://londonuniversity.com) <br>Online Business & Management, Global Open Restless Learner,**2018**-Present 
   
 Ram Murmu is a member of the Y Combinator Startup School future Founder and haker news community. 
   
@@ -129,9 +129,9 @@ Interest | Skills  |Interpersonal skill
 
 **🎓Education**
   
-Harvard University <br>Online Business and Mangement, Global Open Restless Learner,**2020**-Present 
+[Harvard University](https://harvaduniversity.com) <br>Online Business and Mangement, Global Open Restless Learner,**2020**-Present 
   
-Indian Institute of Management  <br>Online Business and Management, Global Open Restless Learner,**2020**-Present 
+[Indian Institute of Management](https://iimb.com)  <br>Online Business and Management, Global Open Restless Learner,**2020**-Present 
   
 **💼Employement**<br>
 RunAsh (YC SUS W**20**)**2021**-Present 
