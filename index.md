@@ -52,7 +52,7 @@ Headquaters <br> C/O Ram Murmu Manjhladih,Post Balidih PS Balidih North Gorabali
 My Co-Founder Details (We are both brother)<br> Vaibhav Murmu Co-Founder and Chief Financial Officer (CFO),**[RunAsh](https://runash.in)**<br> S/o Sanu Murmu Date of Birth **01-01-1999**<br>DIRECTOR IDENTIFICATION NUMBER (DIN) **09135526**<br>C/o Manjhladih Balidih Gora Balidih ,Bokaro **827014** Jharkhand India 
 
 [Email Us](sales@runash.in)
-  
+---  
 The Ram Murmu [Story🎤 ](https://medium.com/runash)
   
  
@@ -65,6 +65,7 @@ My name is Ram Murmu I am 27 years old.I was born on November **11, 1994**.My la
 My grandfather was a farmer and when our land was taken by Bokaro Steel Plant (SAIL) then my grandfather got a job in the operation department in the plant._ 
 My business journey starts from **2008** when I was in 7th standard of school.The name of my school was SS Institute of Human Development.The name of my principal madam is Usha Rai who gave me the title of 🥇Best Student of the Year in **2009**. And also inspired me to be the best leader. It is with his inspiration that today I have reached the journey from a small village in India to Silicon Valley Y Combinator Startup School.I have always used the guidance and discipline shown by him in my studies and works. And by continuously studying deeply, I learned something new and acquired new skills._
 
+---
 **The Business Journy** ✨ 
 
 Our family business started from **2008**. We started business with an offline retail store **Shri Ram General Store**
@@ -162,7 +163,8 @@ For more details see [Learn More](https://).
  
 [LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu) [Hacker New](https://)
  
-© 2022 Ram Murmu.All Rights Reserved 
+Written by<br>Ram Murmu<br>
+This repository is licensed under<br>  [MIT License](https://mit.com/open-source)<br>Copyright © 2021 Ram & Vaibhav Murmu
  
 
 
