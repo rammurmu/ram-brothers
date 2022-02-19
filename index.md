@@ -163,8 +163,8 @@ For more details see [Learn More](https://).
  
 [LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu) [Hacker New](https://)
  
-Written by. [ ^1 ]<br>Ram Murmu [ ^1 ]<br>
-[ ^1 ]: This repository is licensed under<br>  [MIT License](https://mit.com/open-source)<br>Copyright © 2021 Ram & Vaibhav Murmu
+Written by <br> Ram Murmu[^1]
+[^1]:This repository is licensed under<br>  [MIT License](https://mit.com/open-source)<br>Copyright © 2021 Ram & Vaibhav Murmu
  
 
 
