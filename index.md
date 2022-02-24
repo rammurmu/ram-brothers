@@ -126,9 +126,11 @@ Interest | Skills  |Interpersonal skill
   
  [LinkedIn](https://linkedin.com/in/rammurmu)  [@_RamMurmu](https://twitter.com/_rammurmu) 
 
-**Vaibhav Murmu hold**
+
 
 **🎓Education**
+ 
+ **Vaibhav Murmu hold**
   
 [Harvard University](https://harvaduniversity.com) <br>Online Business and Mangement, Global Open Restless Learner,**2020**-Present 
   
@@ -165,7 +167,7 @@ For more details see [Learn More](https://).
  
 Written by <br> Ram Murmu[^1]
  
- ---
+
  
 [^1]:This repository is licensed under<br>  [MIT License](https://mit.com/open-source)<br>Copyright © 2021 Ram & Vaibhav Murmu
  
