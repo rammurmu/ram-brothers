@@ -20,7 +20,7 @@
 🙏Johar  👏Namast  🤝Hello  👋Hi  ☝Howdy !
 
 # Introduction #
-
+---
 
 
 Higher-thinking than Dream!(Dream se bhee uchi soch)
@@ -39,7 +39,8 @@ RunAsh | Startup India Batch **2018** | RunAsh | Y Combinator SUS W**20**
 About<br> Ram Murmu<br>
 Hi there my name is Ram Murmu, I am the Founder & CEO,**RunAsh**<br>Previously as a proprietor for **RUNASH SON'S OF INDUSTRIES**
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[Startup🚀 ](https://runash.in)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[Startup🚀 ](https://runash.in) 
+---
 <br>RunAsh is a live streaming hybrid platform and marketplace for retailing
  
 **[Startup India](https://www.startupindia.gov.in)** and **[Y Combinator Startup School](https://www.ycombinator.com)** Reconized Startup
@@ -164,8 +165,9 @@ For more details see [Learn More](https://).
 
  
 [LinkedIn](https://linkedin.com/in/vaibhavmurmu) [Twitter](https://twitter.com/VaibhavMurmu) [Hacker New](https://)
- 
-## Written by <br> 
+
+ ---
+Written by <br> 
  Ram Murmu[^1]
  
 
