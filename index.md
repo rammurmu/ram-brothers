@@ -4,7 +4,7 @@
 
 
 
-[GitHub](https://github.com/rammurmu) site of [RunAsh Brothers](https://linkedin.com/in/rammurmu)
+[GitHub website of RunAsh Brothers](https:///github.coom/rammur)
 
 
 
@@ -22,14 +22,14 @@
 # Introduction #
 
 
-Dream se bhee uchi soch!<br>
-Higher-thinking than Dream!
-<br>The biggest thing of our startup's journey has to learn from open source. and Learning from the world's best.<br>The most important thing for our startup with new principles is learning. If our startup is a great idea. we don't<br> have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything<br> is possible with hard work. and everything can be found.
+
+Higher-thinking than Dream!(Dream se bhee uchi soch)
+<br>The biggest thing of our startup's journey has to learn from open source. and Learning from the world's best.The most important thing for our startup with new principles is learning. If our startup is a great idea. we don't have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything is possible with hard work. and everything can be found.
 
 <img src="https://sat02pap001files.storage.live.com/y4m919plB94WizbaGeE5UCFSjn1-Jb5ADZaKIIKkkFRW4An3S7RrhHx7U3fRTgAZVs1Z3i56JgLc4HfGPVBt4TDrqduvl5nTgHhJdMCGK2vamcVqi6L3NF1QdKXW2-un9J0ykCaHEnvUYamqm94vrc6kRvuJ773F0kTgzmp0I47CRezYEyrKEbEVbCwNM8xyJB4?width=200&height=256&cropmode=none" width="200" height="256" /> | <img src="https://sat02pap001files.storage.live.com/y4mBSmXyj0yUWKZUjlKoKl2P63dtIrkMVL6oXDoIqYbPb8qjYsMZzXWvCvGY8F4BecS7KWE1BNUHNE6FaI8UJ7ocBXCJp1GJsWeae7IPJlgVheErNf9rxnGAKsKWaNsNensQr5MF-WH7VkjAsgS5FnOwFl9O194wnpgYc7W5981XN_DxI-7yXmiVxqbQTFfokCW?width=200&height=256&cropmode=none" width="200" height="256" />
 
 
-[The journey from a small village in India to Y Combinator](https://startupschool.org/RunAsh) 
+[The journey from a small village in India to Y Cor](https://startupschool.org/RunAsh) 
 
 RunAsh | Startup India Batch **2018** | RunAsh | Y Combinator SUS W**20**
 
@@ -37,9 +37,9 @@ RunAsh | Startup India Batch **2018** | RunAsh | Y Combinator SUS W**20**
 
 
 About<br> Ram Murmu<br>
-My name is Ram Murmu, I'm Founder & CEO,**RunAsh**<br>previously as a proprietor for **RUNASH SON'S OF INDUSTRIES**
+Hi there my name is Ram Murmu, I am the Founder & CEO,**RunAsh**<br>Previously as a proprietor for **RUNASH SON'S OF INDUSTRIES**
 
-# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[Introducing RunAsh Startup🚀 ](https://runash.in)
+# ![blob-0040](https://user-images.githubusercontent.com/61916324/132724592-e5bef25e-36d9-4da8-bbc6-84a24183c8e2.png)[Startup🚀 ](https://runash.in)
 <br>RunAsh is a live streaming hybrid platform and marketplace for retailing
  
 **[Startup India](https://www.startupindia.gov.in)** and **[Y Combinator Startup School](https://www.ycombinator.com)** Reconized Startup
