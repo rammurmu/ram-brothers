@@ -4,7 +4,7 @@
 
 
 
-[GitHub](https://github.com/rammurmu) site of [Ram Murmu](https://linkedin.com/in/rammurmu) and [Vaibhav Murmu](https://linkedin.com/in/vaibhavmurmu)
+[GitHub](https://github.com/rammurmu) site of [RunAsh Brothers](https://linkedin.com/in/rammurmu)
 
 
 
@@ -22,7 +22,7 @@
 # Introduction #
 
 
-Dream se bhee uchi soch!
+Dream se bhee uchi soch!<br>
 Higher-thinking than Dream!
 <br>The biggest thing of our startup's journey has to learn from open source. and Learning from the world's best.<br>The most important thing for our startup with new principles is learning. If our startup is a great idea. we don't<br> have to get excited, we have to walk with a clean mind.My grandfather always used to tell me that everything<br> is possible with hard work. and everything can be found.
 
